@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="/images/mockups/phone2.png" width="900"/>
+  <img src="/images/mockups/phone2.png" width="800"/>
 </p>
 
 Button | Description
